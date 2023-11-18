@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7dd251ac6a80d4cb79773a53ca80ef, type: 3}
+  m_Name: PoolData
+  m_EditorClassIdentifier: 
+  Player:
+    Prefab: {fileID: 723796758912406501, guid: 6e888d57e95aea94980be28bcb017488, type: 3}
+    InitSize: 1
+  Block:
+    Prefab: {fileID: 7505813518092487132, guid: faefac6ed31ae3b4c9e1616c82f95d74, type: 3}
+    InitSize: 27
+  BlowParticle:
+    Prefab: {fileID: 4718676121723955047, guid: 8b2e08767dbf2a948a207d04cd1044aa, type: 3}
+    InitSize: 2
+  RedBackg:
+    Prefab: {fileID: 4222983842800423831, guid: cac795a69979d584499c6bf29c81bdd1, type: 3}
+    InitSize: 5
+  BlueBackg:
+    Prefab: {fileID: 6569891776535865749, guid: f7967f310e512b840ac58774e4410372, type: 3}
+    InitSize: 5
+  GreenBack:
+    Prefab: {fileID: 5367203749136792634, guid: 82d36fafe842388439ed646c38257909, type: 3}
+    InitSize: 5
