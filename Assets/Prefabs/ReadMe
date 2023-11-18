@@ -1,0 +1,2 @@
+Scene/GameScene sahnesini baslatarak oyuna girebilirsiniz.
+Script/Level klasörü altında level zoruklarını değiştirebilirsiniz. Yeni level eklerseniz LevelManager üzerindeki listeye ekleyerek oynayabilirsiniz.
